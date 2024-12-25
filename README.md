@@ -1,7 +1,5 @@
 # PRODIGY-_DS_task4
-# Sentiment Analysis 
-
-## Project Title: Sentiment Analysis on Social Media Data
+# Sentiment Analysis on Social Media Data
 
 ## Overview
 This project focuses on analyzing and visualizing sentiment patterns in social media data to gain insights into public opinion and attitudes towards specific topics or brands. By leveraging Natural Language Processing (NLP) techniques and machine learning models, we explore how users engage with gaming and technology-related content across various platforms.
